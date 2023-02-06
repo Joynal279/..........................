@@ -1,4 +1,4 @@
-# Hi, I'm Tamanna Akter
+# Hi, I'm Joynal Abedin
 ### A Passionate iOS Developer from Bangladesh.
 
 <p>
